@@ -123,6 +123,33 @@ HelloCLion/fast:
 	$(MAKE) -f CMakeFiles/HelloCLion.dir/build.make CMakeFiles/HelloCLion.dir/build
 .PHONY : HelloCLion/fast
 
+gcd.o: gcd.cpp.o
+
+.PHONY : gcd.o
+
+# target to build an object file
+gcd.cpp.o:
+	$(MAKE) -f CMakeFiles/HelloCLion.dir/build.make CMakeFiles/HelloCLion.dir/gcd.cpp.o
+.PHONY : gcd.cpp.o
+
+gcd.i: gcd.cpp.i
+
+.PHONY : gcd.i
+
+# target to preprocess a source file
+gcd.cpp.i:
+	$(MAKE) -f CMakeFiles/HelloCLion.dir/build.make CMakeFiles/HelloCLion.dir/gcd.cpp.i
+.PHONY : gcd.cpp.i
+
+gcd.s: gcd.cpp.s
+
+.PHONY : gcd.s
+
+# target to generate assembly for a file
+gcd.cpp.s:
+	$(MAKE) -f CMakeFiles/HelloCLion.dir/build.make CMakeFiles/HelloCLion.dir/gcd.cpp.s
+.PHONY : gcd.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... HelloCLion"
 	@echo "... edit_cache"
+	@echo "... gcd.o"
+	@echo "... gcd.i"
+	@echo "... gcd.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

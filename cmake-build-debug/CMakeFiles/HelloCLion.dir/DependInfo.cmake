@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/gcd.cpp" "/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/cmake-build-debug/CMakeFiles/HelloCLion.dir/gcd.cpp.o"
   "/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/main.cpp" "/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/cmake-build-debug/CMakeFiles/HelloCLion.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

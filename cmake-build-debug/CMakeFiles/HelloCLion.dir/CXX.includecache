@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
+/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/gcd.hpp
+
 /cygdrive/c/Users/kimem/CLionProjects/HelloCLion/main.cpp
 iostream
 -
+gcd.hpp
+/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/gcd.hpp
 

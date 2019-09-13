@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/HelloCLion.dir/main.cpp.o"
+  "CMakeFiles/HelloCLion.dir/gcd.cpp.o"
   "HelloCLion.pdb"
   "HelloCLion.exe"
   "libHelloCLion.dll.a"

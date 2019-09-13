@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/gcd.cpp">
+			<Option target="HelloCLion"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/gcd.hpp">
+			<Option target="HelloCLion"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/kimem/CLionProjects/HelloCLion/main.cpp">
 			<Option target="HelloCLion"/>
 		</Unit>
